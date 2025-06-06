@@ -15,15 +15,17 @@ Author: TrungNguyen
 Name: Advanced Device Spoofer
 
 Package: com.devicespoofer.native
-Version: 4.0.0
+Version: 4.0.1
 Architecture: iphoneos-arm
 Maintainer: TrungNguyen
 Depends: firmware (>= 10.0)
-Filename: debs/devicespoofer-native_4.0.0.deb
-Size: 4200
-MD5sum: 316ec2f9a5bf3ee5aa452288ea7b4eb2
-SHA1: 81e6694d90da71cb37f32a7b400e784f2fa44ca5
-SHA256: 347bb14f1f6189cf106d8da52fa779ef464f0eab8dcf1e6aad9fa99c04d05c77
+Conflicts: com.advanced.devicespoofer.app, com.devicespoofer.app
+Replaces: com.advanced.devicespoofer.app, com.devicespoofer.app
+Filename: debs/devicespoofer-native_4.0.1.deb
+Size: 4300
+MD5sum: 846ae614a6792dce106cacebb634faf5
+SHA1: 184f8aae232177eb8c05f3bb1fa836b14618219a
+SHA256: 33a2dc201eb8ed55416f5cadd3546011a3486a5f1d590f1b3cbe4173e9b399a7
 Section: Applications
 Description: Native-style Device Spoofer App
 Author: TrungNguyen
