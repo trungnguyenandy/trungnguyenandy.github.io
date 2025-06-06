@@ -1,8 +1,8 @@
-Origin: Test Repo
-Label: Test Repo
+Origin: TrungNguyen Repo
+Label: TrungNguyen Repo
 Suite: stable
 Version: 1.0
-Codename: stable
+Codename: ios
 Architectures: iphoneos-arm
 Components: main
-Description: Test Spoofer Repository
+Description: TrungNguyen's Repository
