@@ -14,6 +14,22 @@ Description: Full featured device spoofer with Settings
 Author: TrungNguyen
 Name: Advanced Device Spoofer
 
+Package: com.advanced.devicespoofer.app
+Version: 3.0.0
+Architecture: iphoneos-arm
+Maintainer: TrungNguyen
+Depends: mobilesubstrate
+Conflicts: com.advanced.devicespoofer, com.repo.devicespoofer
+Filename: debs/devicespoofer-app_3.0.0.deb
+Size: 3404
+MD5sum: 85734fe5f39e97fcb00361157884e9ee
+SHA1: 1553271a30af9e77cca43dbd31fcdcc42152dd76
+SHA256: 0516c3a323c9427b877d77201f9a0dbbc9b41c6fdeac9a5de2d388eda2e2b5b7
+Section: Tweaks
+Description: Device Spoofer with standalone app
+Author: TrungNguyen
+Name: Device Spoofer Pro
+
 Package: com.repo.devicespoofer
 Version: 1.0.0
 Architecture: iphoneos-arm
