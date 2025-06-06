@@ -1,3 +1,17 @@
+Package: com.devicespoofer.command
+Version: 12.0.0
+Architecture: iphoneos-arm
+Maintainer: TrungNguyen
+Filename: debs/devicespoofer-command_12.0.0.deb
+Size: 824
+MD5sum: 3d98397dfbabe2f3395f020df14f0598
+SHA1: 182939b6fa23f1ae4416dfd010219c692e2adfca
+SHA256: 9040af9050235d189359ca26514057e65a043c65c4611a0af9df5e6df9357ebe
+Section: Terminal Support
+Description: Terminal commands for Device Spoofer
+Author: TrungNguyen
+Name: Device Spoofer Command
+
 Package: com.devicespoofer.native
 Version: 4.0.1
 Architecture: iphoneos-arm
@@ -31,6 +45,20 @@ Section: Tweaks
 Description: Advanced Device Spoofer with Full Jailbreak Bypass
 Author: TrungNguyen
 Name: Device Spoofer Pro
+
+Package: com.devicespoofer.quickcontrol
+Version: 11.0.0
+Architecture: iphoneos-arm
+Maintainer: TrungNguyen
+Filename: debs/devicespoofer-quickcontrol_11.0.0.deb
+Size: 768
+MD5sum: 3d6712fad98e6178fa7b47397714b4cc
+SHA1: 75fdeadb1bf57fabc6f21ccc0b64f8f906028d82
+SHA256: f21a2b16196fc37cd1da96c2fb77ade2cc4f5835087201ed4193c549d652b3d5
+Section: Utilities
+Description: Quick control for Device Spoofer
+Author: TrungNguyen
+Name: Device Spoofer Quick Control
 
 Package: com.devicespoofer.simpleui
 Version: 7.0.0
