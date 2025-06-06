@@ -75,6 +75,21 @@ Description: Device Spoofer with Simple Settings
 Author: TrungNguyen
 Name: Device Spoofer Simple UI
 
+Package: com.trungng.devicespoofer.working
+Version: 25.0.0
+Architecture: iphoneos-arm
+Maintainer: TrungNguyen
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/devicespoofer-working_25.0.0.deb
+Size: 1710
+MD5sum: 0436677ae871fc86ed8e9ef44364ba2c
+SHA1: 45477a73f22985d95996ec95366a15dd2dff68ee
+SHA256: 8e173fd4f23c4d993710065097b5a55336007e2b6cf8f83bff19033cbb5d9464
+Section: Tweaks
+Description: Actually working Device Spoofer with Settings
+Author: TrungNguyen
+Name: Device Spoofer Working
+
 Package: com.trungng.devicespooferplus
 Version: 3.0.0
 Architecture: iphoneos-arm
