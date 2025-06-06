@@ -1,0 +1,15 @@
+Package: com.test.spoofer
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: Test
+Depends: mobilesubstrate
+Filename: debs/test-spoofer_1.0.0.deb
+Size: 660
+MD5sum: 65e974c765f2ca8348369cc109268dc3
+SHA1: 2f2662b9093e8b61dd64b2a04403c07eb72e6f6b
+SHA256: 6a29555ce56d956bb8171dc812be8c2daa90a8d4fe0ef94c75aafe1ee3ddb6b6
+Section: Tweaks
+Description: Test device spoofer
+Author: Test
+Name: Test Spoofer
+
