@@ -5,7 +5,7 @@ Maintainer: TrungNguyen
 Depends: firmware (>= 10.0)
 Conflicts: com.advanced.devicespoofer.app, com.devicespoofer.app
 Replaces: com.advanced.devicespoofer.app, com.devicespoofer.app
-Filename: debs/devicespoofer-pro_5.0.0.deb
+Filename: debs/devicespoofer-native_4.0.1.deb
 Size: 4300
 MD5sum: 846ae614a6792dce106cacebb634faf5
 SHA1: 184f8aae232177eb8c05f3bb1fa836b14618219a
@@ -14,6 +14,23 @@ Section: Applications
 Description: Native-style Device Spoofer App
 Author: TrungNguyen
 Name: Device Spoofer Native
+
+Package: com.devicespoofer.pro
+Version: 5.0.0
+Architecture: iphoneos-arm
+Maintainer: TrungNguyen
+Depends: mobilesubstrate
+Conflicts: com.devicespoofer.native
+Replaces: com.devicespoofer.native
+Filename: debs/devicespoofer-pro-real_5.0.0.deb
+Size: 4314
+MD5sum: 5b0f76660bfdbe801d6f9ba642f0288a
+SHA1: 0c413d50e0b1d21343fd5d58fc24600a31aca71b
+SHA256: e6a5d4509f9ddff54a32b4c300035fc3368b3dddb7ec929b1840866ef0a19776
+Section: Tweaks
+Description: Advanced Device Spoofer with Full Jailbreak Bypass
+Author: TrungNguyen
+Name: Device Spoofer Pro
 
 Package: com.trungng.devicespooferplus
 Version: 3.0.0
