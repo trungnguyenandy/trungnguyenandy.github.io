@@ -1,0 +1,8 @@
+Origin: TrungNguyen Andy Repo
+Label: TrungNguyen Andy
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: TrungNguyen Andy's Cydia Repository
