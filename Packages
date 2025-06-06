@@ -1,19 +1,3 @@
-Package: com.advanced.devicespoofer
-Version: 2.0.0
-Architecture: iphoneos-arm
-Maintainer: TrungNguyen
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.repo.devicespoofer, com.test.spoofer
-Filename: debs/advanced-devicespoofer_2.0.0.deb
-Size: 1936
-MD5sum: d4e7a66a796f13907fd0a7a587abc38d
-SHA1: d0e797515c44f12b9dee81ad8899834b0bb5e80f
-SHA256: 542c6dae5773b390a71a6c1e6378ba682511ea125f383b49b9a38f3126648c68
-Section: Tweaks
-Description: Full featured device spoofer with Settings
-Author: TrungNguyen
-Name: Advanced Device Spoofer
-
 Package: com.devicespoofer.native
 Version: 4.0.1
 Architecture: iphoneos-arm
@@ -30,35 +14,4 @@ Section: Applications
 Description: Native-style Device Spoofer App
 Author: TrungNguyen
 Name: Device Spoofer Native
-
-Package: com.repo.devicespoofer
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: TrungNguyen
-Depends: mobilesubstrate, preferenceloader
-Filename: debs/devicespoofer-settings_1.0.0.deb
-Size: 1912
-MD5sum: b39512dbf519e08812d47b1d5a79e3b1
-SHA1: f1d6e68e09fbd63f0647431d9368ba687389e09d
-SHA256: 6bbd186da5b238993bb4e3fcb8a99b1bb23c1446ac9343d2e8b906bd3f1a976c
-Section: Tweaks
-Description: Device Spoofer with Settings App
-Author: TrungNguyen
-Icon: file:///Library/PreferenceBundles/SpooferSettings.bundle/icon@2x.png
-Name: Device Spoofer Settings
-
-Package: com.test.spoofer
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: Test
-Depends: mobilesubstrate
-Filename: debs/test-spoofer_1.0.0.deb
-Size: 660
-MD5sum: 65e974c765f2ca8348369cc109268dc3
-SHA1: 2f2662b9093e8b61dd64b2a04403c07eb72e6f6b
-SHA256: 6a29555ce56d956bb8171dc812be8c2daa90a8d4fe0ef94c75aafe1ee3ddb6b6
-Section: Tweaks
-Description: Test device spoofer
-Author: Test
-Name: Test Spoofer
 
