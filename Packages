@@ -32,6 +32,21 @@ Description: Advanced Device Spoofer with Full Jailbreak Bypass
 Author: TrungNguyen
 Name: Device Spoofer Pro
 
+Package: com.devicespoofer.simpleui
+Version: 7.0.0
+Architecture: iphoneos-arm
+Maintainer: TrungNguyen
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/devicespoofer-simpleui_7.0.0.deb
+Size: 908
+MD5sum: 462be71e14237721cad6ba7b1873e95c
+SHA1: 5e17660b4dc01859bfb469ac32ad24b2b4c1449e
+SHA256: a97a67e67bc67da0aa8e84fc494587199d0d911a109f73ee873dc99161bff479
+Section: Tweaks
+Description: Device Spoofer with Simple Settings
+Author: TrungNguyen
+Name: Device Spoofer Simple UI
+
 Package: com.trungng.devicespooferplus
 Version: 3.0.0
 Architecture: iphoneos-arm
