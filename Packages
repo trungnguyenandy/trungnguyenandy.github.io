@@ -1,3 +1,19 @@
+Package: com.repo.devicespoofer
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: TrungNguyen
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/devicespoofer-settings_1.0.0.deb
+Size: 1912
+MD5sum: b39512dbf519e08812d47b1d5a79e3b1
+SHA1: f1d6e68e09fbd63f0647431d9368ba687389e09d
+SHA256: 6bbd186da5b238993bb4e3fcb8a99b1bb23c1446ac9343d2e8b906bd3f1a976c
+Section: Tweaks
+Description: Device Spoofer with Settings App
+Author: TrungNguyen
+Icon: file:///Library/PreferenceBundles/SpooferSettings.bundle/icon@2x.png
+Name: Device Spoofer Settings
+
 Package: com.test.spoofer
 Version: 1.0.0
 Architecture: iphoneos-arm
