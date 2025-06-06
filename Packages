@@ -1,3 +1,19 @@
+Package: com.advanced.devicespoofer
+Version: 2.0.0
+Architecture: iphoneos-arm
+Maintainer: TrungNguyen
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.repo.devicespoofer, com.test.spoofer
+Filename: debs/advanced-devicespoofer_2.0.0.deb
+Size: 1936
+MD5sum: d4e7a66a796f13907fd0a7a587abc38d
+SHA1: d0e797515c44f12b9dee81ad8899834b0bb5e80f
+SHA256: 542c6dae5773b390a71a6c1e6378ba682511ea125f383b49b9a38f3126648c68
+Section: Tweaks
+Description: Full featured device spoofer with Settings
+Author: TrungNguyen
+Name: Advanced Device Spoofer
+
 Package: com.repo.devicespoofer
 Version: 1.0.0
 Architecture: iphoneos-arm
