@@ -1,13 +1,13 @@
 Package: com.devicespoofer.pro
 Version: 3.0.0
 Architecture: iphoneos-arm
-Maintainer: TrungNguyen
-Depends: mobilesubstrate
+Maintainer: TrungNguyen <trung@example.com>
+Depends: mobilesubstrate, firmware (>= 11.0)
 Filename: debs/com.devicespoofer.pro_3.0.0_iphoneos-arm.deb
-Size: 776
-MD5sum: 47e3161a3d3cb03b74141d9f6000f0f8
-SHA1: 936e2be26da6dd7b718a3b2cbcd68a0bfeeadc59
-SHA256: 7e5919c5a75373bc0d61fba5284d7c865f6be92728520d554a1f329aeb7ac5f8
+Size: 794
+MD5sum: d4f79b6241b2c58141c052572b66c80d
+SHA1: 56e469694ba80249b4f16df1d6496204b346daa4
+SHA256: 166ff29381df04a9d6e335db321ceb49412fc65f45e4239983a7fcb6bb8d7d38
 Section: Tweaks
 Description: Advanced device spoofing with jailbreak bypass
 Author: TrungNguyen
